@@ -2,7 +2,7 @@
 
 Google ドライブのフォルダー内の画像を 1 つの Google ドキュメントファイルへまとめるスクリプト(GAS)
 
-Zenn に記事を作る予定。
+- 関連記事: [Pixel Screenshots 風なことを NotebookLM でやってみたらわりと返答してくれるのだが、そっと消去されることもある](https://zenn.dev/hankei6km/articles/simple-pixel-screenshots-with-notebooklm)
 
 ## 概要
 
